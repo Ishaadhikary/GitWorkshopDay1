@@ -6,3 +6,6 @@ git commit
 git status
 git restore
 git log
+revert commit
+
+Reset
