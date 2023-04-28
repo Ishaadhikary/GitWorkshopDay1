@@ -1,0 +1,8 @@
+Leapfrog Git Basic Workshop
+Day 1: Basics:
+git init
+git add
+git commit
+git status
+git restore
+git log
